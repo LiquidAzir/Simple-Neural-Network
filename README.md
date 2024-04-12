@@ -21,6 +21,7 @@ pip install numpy
 Execute the notebook using Jupyter:
 ```bash
 jupyter notebook
+'''
 
 ## Usage
 Open the Simple Neural Network from Scratch.ipynb in Jupyter and run the cells to see how the neural network is built and operates on data, following insights gained from the book "Essential Math for Data Science".
