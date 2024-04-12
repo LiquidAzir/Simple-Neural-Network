@@ -16,7 +16,7 @@ This project demonstrates the creation of a simple neural network built entirely
 To run this project, clone the repository and ensure that you have Python installed. Navigate to the project directory and install the required dependencies:
 ```bash
 pip install numpy
-```bash
+```
 
 Execute the notebook using Jupyter:
 ```bash
