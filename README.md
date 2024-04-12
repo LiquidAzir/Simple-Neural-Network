@@ -16,3 +16,10 @@ This project demonstrates the creation of a simple neural network built entirely
 To run this project, clone the repository and ensure that you have Python installed. Navigate to the project directory and install the required dependencies:
 ```bash
 pip install numpy
+
+Execute the notebook using Jupyter:
+```bash
+jupyter notebook
+
+## Usage
+Open the Simple Neural Network from Scratch.ipynb in Jupyter and run the cells to see how the neural network is built and operates on data, following insights gained from the book "Essential Math for Data Science".
